@@ -36,7 +36,7 @@
 
 **Название проекта:** Мой первый сайт
 *   **Описание:** Сайт-магазин для проекта ANARCHY PROJECT в DayZ. Используется  HTML, CSS, JavaScript, PHP, SQL, Docker. Реализована авторизация через SteamID для последующей автовыдачи купленного предмета в игру. Проект встал из-за сложности написания мода для игры.
-*   **Ссылка на репозиторий:** `https://github.com/AleksandrGilev/my-first-website`
+*   **Ссылка на репозиторий:** `https://github.com/AleksandrGilev/AnarchyProject.git`
 ---
 
 ### Моя активность на GitHub
