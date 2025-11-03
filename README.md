@@ -22,17 +22,15 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
 <img width="12" />
 </div>
 <br>
-**🛠 Инструменты и платформы:**
+🛠 Инструменты и платформы:
 <div align="center">
-Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
-<img width="12" />
 GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
 <img width="12" />
 Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20" alt="docker logo"  />
 <img width="12" />
 VS Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
 <img width="12" />
-IntelliJ IDEA <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellijidea/intellijidea-original.svg" height="20" alt="intellijidea logo"  />
+IntelliJ IDEA <img src="https://img.icons8.com/fluent/1200/intellij-idea.jpg" height="20" alt="intellijidea logo"  />
 <img width="12" />
 PyCharm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="20" alt="pycharm logo"  />
 <img width="12" />
@@ -40,7 +38,7 @@ Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-o
 <img width="12" />
 </div>
 <br>
-**🔥 Избранные проекты**
+🔥 Избранные проекты
 
 * **Название проекта:** Змейка
 *   **Описание:** Мини-игра была написана в целях ознокомления с языком Java, ООП и т.д.
