@@ -60,8 +60,3 @@ Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-o
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AleksandrGilev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-
-### Как со мной связаться
-*   **Telegram:** @guncster
-*   **Электронная почта:** @gilevsasa238@gmail.com
