@@ -7,6 +7,7 @@
 Вот некоторые технологии, с которыми я работаю:
 
 👩‍💻 Языки программирования:
+<div align="center">
 *   JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="20" alt="javascript logo"  />
 <img width="12" />
 *   Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20" alt="python logo"  />
@@ -18,8 +19,10 @@
 *   CSS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="20" alt="css3 logo"  />
 <img width="12" />
 *   C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="20" alt="c logo"  />
-
+<img width="12" />
+</div>
 **🛠 Инструменты и платформы:**
+<div align="center">
 *   Git <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="20" alt="git logo"  />
 <img width="12" />
 *   GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
@@ -34,7 +37,7 @@
 <img width="12" />
 *   Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="20" alt="figma logo"  />
 <img width="12" />
-
+</div>
 **🔥 Избранные проекты**
 
 * **Название проекта:** Змейка
