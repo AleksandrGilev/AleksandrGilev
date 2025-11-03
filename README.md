@@ -51,7 +51,7 @@ Figma <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-o
 *   **Ссылка на репозиторий:** Пока закрыт, т.к. в доработке
 ---
 
-**Название проекта:** Мой первый сайт
+*   **Название проекта:** Мой первый сайт
 *   **Описание:** Сайт-магазин для проекта ANARCHY PROJECT в DayZ. Используется  HTML, CSS, JavaScript, PHP, SQL, Docker. Реализована авторизация через SteamID для последующей автовыдачи купленного предмета в игру. Проект встал из-за сложности написания мода для игры.
 *   **Ссылка на репозиторий:** `https://github.com/AleksandrGilev/AnarchyProject.git`
 ---
