@@ -33,7 +33,7 @@ Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docke
 <img width="12" />
 VS Code <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="20" alt="vscode logo"  />
 <img width="12" />
-IntelliJ IDEA <img src="https://img.icons8.com/?size=48&amp;id=61466&amp;format=png" height="20" alt="intellijidea logo"  />
+IntelliJ IDEA <img src="https://img.icons8.com/color/1200/intellij-idea.jpg" height="20" alt="intellijidea logo"  />
 <img width="12" />
 PyCharm <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="20" alt="pycharm logo"  />
 <img width="12" />
