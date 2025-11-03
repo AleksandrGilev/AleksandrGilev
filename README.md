@@ -22,9 +22,7 @@ C <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
 <img width="12" />
 </div>
 <br>
-//<img style="" data-image-id="61466" src="https://img.icons8.com/color/1200/intellij-idea.jpg"
-//  srcset="https://img.icons8.com/?size=48&amp;id=61466&amp;format=png 1x, https://img.icons8.com/?size=96&amp;id=61466&amp;format=png 2x" 
-// width="48" height="48" alt="color style intellij idea icon" data-v-2cf460e3="">
+
 🛠 Инструменты и платформы:
 <div align="center">
 GitHub <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="20" alt="github logo"  />
